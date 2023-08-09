@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Lorem ipsum",
+            "image": "/assets/images/products/produto.png",
+            "price": 1598.00,
+            "pricePromotion": 1498.00,
+            "stock": 2
+        },
+        {
+            "id": 2,
+            "name": "Lorem ipsum 2",
+            "image": "/assets/images/products/produto.png",
+            "price": 1598.00,
+            "pricePromotion": 1498.00,
+            "stock": 4
+        },
+        {
+            "id": 3,
+            "name": "Lorem ipsum 2",
+            "image": "/assets/images/products/produto.png",
+            "price": 1598.00,
+            "stock": 0
+        },
+        {
+            "id": 4,
+            "name": "Lorem ipsum 2",
+            "image": "/assets/images/products/produto.png",
+            "price": 1598.00,
+            "stock": 3
+        },
+        {
+            "id": 5,
+            "name": "Lorem ipsum 2",
+            "image": "/assets/images/products/produto.png",
+            "price": 1598.00,
+            "pricePromotion": 1498.00,
+            "stock": 5
+        }
+    ]
+}
